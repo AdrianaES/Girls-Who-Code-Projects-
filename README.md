@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Girls Who Code Projects
 
 ## Author
