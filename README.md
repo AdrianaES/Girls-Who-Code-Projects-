@@ -1,8 +1,9 @@
 # Girls Who Code Projects
 
 ## Author
-[GitHub Profile Pic](tracer_here.jpg) **Adriana Endow-Smith**
-Adriana's Profile Pic
+[GitHub Profile Pic](tracer_here.jpg) <-- Adriana's Profile Pic
+
+**Adriana Endow-Smith**
 
 ### Location
 **Girls Who Code - Blizzard Entertainment**
