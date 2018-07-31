@@ -1,7 +1,7 @@
 # Girls Who Code Projects
 
 ## Author
-[GitHub Profile Pic](tracer_here.jpg) <-- Adriana's Profile Pic
+[Adriana's GitHub Profile Pic](tracer_here.jpg)
 
 **Adriana Endow-Smith**
 
