@@ -1,7 +1,9 @@
 # Girls Who Code Projects
 
-##Author
+## Author
 **Adriana Endow-Smith**
 
-###Location
+### Location
 **Girls Who Code - Blizzard Entertainment**
+
+[Learn More](https://girlswhocode.com/)
