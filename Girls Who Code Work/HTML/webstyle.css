@@ -1,0 +1,19 @@
+h1 {
+color:green;
+text-align: center;
+font-size: 36px;
+}
+h2 {
+color:lime;
+text-align: center;
+font-size: 24px;
+}
+h3 {
+text-align: right;
+font-size: 20px;
+}
+
+.drawings {
+width: 500px;
+height: 500px;
+}
